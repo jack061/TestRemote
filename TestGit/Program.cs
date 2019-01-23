@@ -11,7 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("give me enhance");
-            
+            Console.ReadKey();
         }
     }
 }
